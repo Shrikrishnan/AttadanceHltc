@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca72b0aa-56ee-4847-a56d-7b29ac78a3ef" name="Changes" comment="Fist Commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/attadanceHltc/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/attadanceHltc/MainPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +20,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shrikrishnan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="aaad5f37-9b37-4139-9251-732c4c79843d" />
+        <option name="url" value="https://github.com/Shrikrishnan/hltc.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -66,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698025091577</updated>
       <workItem from="1698025092912" duration="268000" />
-      <workItem from="1698026235830" duration="3071000" />
+      <workItem from="1698026235830" duration="3303000" />
     </task>
     <task id="LOCAL-00001" summary="Fist Commit">
       <option name="closed" value="true" />
@@ -76,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698116913383</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fist Commit">
+      <option name="closed" value="true" />
+      <created>1698117291804</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117291804</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
