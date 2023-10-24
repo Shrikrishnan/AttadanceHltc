@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca72b0aa-56ee-4847-a56d-7b29ac78a3ef" name="Changes" comment="Fist Commit">
+    <list default="true" id="ca72b0aa-56ee-4847-a56d-7b29ac78a3ef" name="Changes" comment="Working Driver">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/attadanceHltc/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/attadanceHltc/MainPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +27,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -105,7 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698025091577</updated>
       <workItem from="1698025092912" duration="268000" />
-      <workItem from="1698026235830" duration="3459000" />
+      <workItem from="1698026235830" duration="3861000" />
     </task>
     <task id="LOCAL-00001" summary="Fist Commit">
       <option name="closed" value="true" />
@@ -131,11 +132,22 @@
       <option name="project" value="LOCAL" />
       <updated>1698117449412</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Working Driver">
+      <option name="closed" value="true" />
+      <created>1698117940868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117940868</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -153,6 +165,7 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Fist Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fist Commit" />
+    <MESSAGE value="Working Driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working Driver" />
   </component>
 </project>
