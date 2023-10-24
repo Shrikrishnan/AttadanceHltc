@@ -76,6 +76,26 @@
       <command value="mvn clean install" />
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="MainPage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.attadanceHltc.MainPage" />
+      <module name="AttadanceHltc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.attadanceHltc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainPage" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -85,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698025091577</updated>
       <workItem from="1698025092912" duration="268000" />
-      <workItem from="1698026235830" duration="3303000" />
+      <workItem from="1698026235830" duration="3459000" />
     </task>
     <task id="LOCAL-00001" summary="Fist Commit">
       <option name="closed" value="true" />
@@ -103,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698117291804</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Fist Commit">
+      <option name="closed" value="true" />
+      <created>1698117449412</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117449412</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
